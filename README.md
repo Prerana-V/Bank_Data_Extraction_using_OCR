@@ -3,8 +3,10 @@ A Python-based project to extract and process tabular data from bank statements 
 
 Step 1: Open the Repository
 •	Start by cloning the repository to your local machine:
+
      Step 2: Install Required Libraries
 •	Ensure you have latest version of Python installed. Install the necessary libraries by running:
+
      Step 3 : Pip Install all the libraries in colab
 1.	Pandas
 2.	Numpy
