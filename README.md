@@ -13,7 +13,5 @@ Step 1: Open the Repository
    
     Step 4: Add Required Files
   	
-     Place your PDF files (ICICI bank statements) in the sample_pdfs.
-  	
-  	 You will get excel file as an output for further analysis.
+     Place your PDF files (ICICI bank statements) in the sample_pdfs.You will get excel file as an output for further analysis.
   	
