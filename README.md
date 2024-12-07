@@ -10,6 +10,7 @@ Step 1: Open the Repository
 2.	Numpy
 3.	Tabula-py
 4.	PyPDF2
+   
     Step 4: Add Required Files
      Place your PDF files (ICICI bank statements) in the sample_pdfs.
   	 You will get excel file as an output for further analysis.
